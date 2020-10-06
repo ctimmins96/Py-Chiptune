@@ -1,5 +1,4 @@
 # Py-Chiptune
-Python Chiptune library
 
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
@@ -25,7 +24,7 @@ Python Chiptune library
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/ctimmins96/Py-Chiptune/graphs/contributors]
+[![Contributors][https://github.com/ctimmins96/Py-Chiptune/graphs/contributors]][]
 [![Forks][forks-shield]][https://github.com/ctimmins96/Py-Chiptune/network/members]
 [![Stargazers][stars-shield]][https://github.com/ctimmins96/Py-Chiptune/stargazers]
 [![Issues][issues-shield]][https://github.com/ctimmins96/Py-Chiptune/issues]
